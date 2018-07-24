@@ -1,0 +1,7 @@
+c:\users\de marko cross\source\repos\Consol\Consol\obj\Debug\Consol.csproj.CoreCompileInputs.cache
+c:\users\de marko cross\source\repos\Consol\Consol\bin\Debug\Consol.exe.config
+c:\users\de marko cross\source\repos\Consol\Consol\bin\Debug\Consol.exe
+c:\users\de marko cross\source\repos\Consol\Consol\bin\Debug\Consol.pdb
+c:\users\de marko cross\source\repos\Consol\Consol\obj\Debug\Consol.exe
+c:\users\de marko cross\source\repos\Consol\Consol\obj\Debug\Consol.pdb
+c:\users\de marko cross\source\repos\Consol\Consol\obj\Debug\Consol.csprojAssemblyReference.cache
